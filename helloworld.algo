@@ -1,7 +1,7 @@
 Algo HelloWorld {
  fonction principale {
  Créer une fenetre de titre HELLO_WORLD
- Mettre la dimension à 500, 200
+ Mettre la dimension à 900, 200
 Mettre la couleur de fond de la fenetre à cyan
  Configurer la fenetre sur 'exitOnClose'
  Créer un label avec du texte centré et contenant le texte HELLO_WORLD
